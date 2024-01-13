@@ -1,2 +1,2 @@
 # basic-project-on-html 
-![Screenshot (133)](https://github.com/aditi-s22/basic-project-on-html/assets/156512463/c6a4a9e7-96eb-45fe-b72b-4e9cabcc53f6)
+![Screenshot (133)](https://github.com/aditi-s22/basic-project-on-html/assets/156512463/b5fe948b-49e3-48bd-991d-d22f41f7d013)
